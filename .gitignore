@@ -5,3 +5,4 @@ dist/*.zip
 /build
 echo dist/*.zip >> .gitignore
 autorun.inf
+/dist
