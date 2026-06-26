@@ -1,8 +1,6 @@
+/dist/
 /__pycache__/
 *$py.class
-dist/*.zip
 *.zip
 /build
-echo dist/*.zip >> .gitignore
 autorun.inf
-/dist
